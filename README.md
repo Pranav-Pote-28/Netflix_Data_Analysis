@@ -70,3 +70,17 @@ This project performs **Exploratory Data Analysis (EDA)** on a Netflix movie dat
    ```bash
    git clone https://github.com/yourusername/netflix-eda.git
    cd netflix-eda
+   pip install -r requirements.txt
+   jupyter notebook netflix_eda.ipynb
+
+## Output Images
+
+### 1. Genre Distribution
+![Genre Distribution](output1.png)
+
+### 2. Vote Average Distribution
+![Vote Average Distribution](output2.png)
+
+### 3. Most Filmed Year Distribution
+![Most Filmed Year Distribution](output5.png)
+
